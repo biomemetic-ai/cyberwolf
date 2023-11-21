@@ -3,7 +3,7 @@
 <h1> 🦾 Cyberwolf 🐺 </h1>
 
 [![Open in Google Colab](https://img.shields.io/badge/open_in_colab-red)](https://colab.research.google.com/github/biomemetic-ai/cyberwolf/blob/main/cyberwolf.ipynb)
-[![Discord](https://img.shields.io/badge/discord-7289da)](https://discord.gg/Uw3QRj5RMm)
+[![Discord](https://img.shields.io/badge/discord-7289da)](https://discord.gg/u3jsQnvGjX)
 
 LLMs play werewolf! 
 
